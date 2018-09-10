@@ -8,7 +8,7 @@ this lab. You can open the file directly with your web browser on your local mac
 |----------------|---------------|
 |**Assignment:** | Work will be done individually|
 |**Assignment Submissions:**| All submissions will be done via GitHub Classrom. For direct marking of assignment, you can show your TA in the lab **and submit via GitHub**. **Submit only your single HTML file.**|
-|**Due Date:**| Electronic submission January 18th, 2018 – end of day (23:59).  GitHub Classroom is automaticall configured to submit your repositories at this time.|
+|**Due Date:**| Electronic submission September 19th, 2018 – end of day (23:59).  You will need to commit your code to your local repository for the assignment and push it upstream to GitHub Classroom by this time.  If you show your work to the TA in the lab for marking, **you still need to commit and push your code upstream**.  This lab will be used for subsequent labs.|
 
 **Rubric:** The assignment will be marked as follows:
 
